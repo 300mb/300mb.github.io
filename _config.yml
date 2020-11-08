@@ -89,3 +89,5 @@ collections:
   amp:
     output: true
     permalink: /amp/:year/:month/:day/:title/
+feed:
+  posts_limit: 5000
